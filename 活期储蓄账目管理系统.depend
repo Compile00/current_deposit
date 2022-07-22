@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1617253340 source:f:\活期储蓄账目管理系统\account.cpp
+	"headersfile.h"
+
+1618926562 f:\活期储蓄账目管理系统\headersfile.h
+	<iostream>
+	<ctime>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1617254042 source:f:\活期储蓄账目管理系统\gettime.cpp
+	"headersfile.h"
+
+1617766700 source:f:\活期储蓄账目管理系统\inquire.cpp
+	"headersfile.h"
+
+1617766538 source:f:\活期储蓄账目管理系统\listdelete.cpp
+	"headersfile.h"
+
+1617766700 source:f:\活期储蓄账目管理系统\listinsert.cpp
+	"headersfile.h"
+
+1619412852 source:f:\活期储蓄账目管理系统\record_file.cpp
+	"headersfile.h"
+

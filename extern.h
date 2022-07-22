@@ -1,0 +1,11 @@
+extern string getTime();
+extern int ListInsert(accountList &L, int i, node_account e);
+extern int Search_Bin(accountList ST,int ID);
+extern Status ListDelete(accountList &L, int i);
+extern float  putinmoney(accountList &L, float money, int i );
+extern float  putoutmoney(accountList &L, float money, int i );
+extern void information(accountList L);
+extern void balance_inquiry(accountList L, int i);
+extern void record(accountList &L, int i);
+extern Status output_str( accountList &L);
+extern Status input_str(accountList &L);
